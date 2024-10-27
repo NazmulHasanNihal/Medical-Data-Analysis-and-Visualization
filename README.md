@@ -1,4 +1,4 @@
-# Medical Data Analysis and Visualization
+# Patient Demographic Analysis and Visualization
 
 ![Alt text](img\healthcare.jpg)
 
@@ -45,7 +45,3 @@ Medical data analysis with various term and prospective measuring and visualizin
 |mIchElLe daniELs   |72 |Male  |O+        |Cancer           |2020-04-19       |John Duncan      |Schaefer-Porter              |Medicare          |12576.795609050234|394        |Urgent        |2020-04-22    |Paracetamol|Normal      |
 |aaRon MARtiNeZ     |38 |Female|A-        |Hypertension     |2023-08-13       |Douglas Mayo     |Lyons-Blair                  |Medicare          |7999.586879604188 |288        |Urgent        |2023-09-05    |Lipitor    |Inconclusive|
 |connOR HANsEn      |75 |Female|A+        |Diabetes         |2019-12-12       |Kenneth Fletcher |Powers Miller, and Flores    |Cigna             |43282.28335770435 |134        |Emergency     |2019-12-28    |Penicillin |Abnormal    |
-
-
-
-
