@@ -15,13 +15,13 @@ def main(data_path: str) -> DataFrame:
     Returns:
         DataFrame: The processed data.
     """
-    # Load data
+    # Loading data
     data: DataFrame = load_data(data_path)
 
-    # Clean data
+    # Cleaning data
     cleaned_data: DataFrame = clean_data(data)
 
-    # Add features
+    # Adding features
     data_with_age_groups: DataFrame = add_age_group(cleaned_data)
     data_with_stay_duration: DataFrame = calculate_stay_duration(data_with_age_groups)
 
