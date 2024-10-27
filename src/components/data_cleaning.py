@@ -1,4 +1,4 @@
-# components/data_cleaning.py
+# src/components/data_cleaning.py
 import pandas as pd
 import sys
 from src.logger import setup_logger
